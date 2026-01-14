@@ -1,0 +1,30 @@
+.destinationSection{
+    min-height: 90vh;
+    width: 100%;
+    background-color: #95a6b5;
+    padding: 0 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+
+}
+.destinationSection button{
+    background: transparent;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.destination{
+    width: 90%;
+    min-height: 70vh;
+    background-color: rebeccapurple;
+    border-radius: 20px;
+    background-image: url("../images/Destinations/azhimala.webp");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
